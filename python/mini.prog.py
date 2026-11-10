@@ -1,5 +1,7 @@
 """
+====================================================
 Random Number Generator – Python Practice Project
+===================================================
 This project demonstrates different approaches to generating and comparing random numbers in Python. It covers the use of the random module,
 functions, recursive function calls, while loops, for loops, conditional statements, and loop termination using break statements. 
 The main purpose of this beginner-level project is to strengthen Python programming skills through practical exercises.
