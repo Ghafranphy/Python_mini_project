@@ -1,5 +1,5 @@
+#############################################################################################################################################
 #This repository contains my Python programming practice exercises as I develop and strengthen my programming skills.
-
 #I am learning Python from the fundamentals through practical coding examples and exercises.
 #============== #
 #Topics Covered #
@@ -19,11 +19,7 @@
 #To build a strong foundation in Python programming through consistent practice, problem-solving, and hands-on coding exercises,
 #with the long-term goal of applying Python to scientific computing, data science, and machine learning. """
 
-
-
-
-
-
+#####################################################################################################################################################
 
 print("Hi this is my \"first python code\" ")
 print('Hi "python" ')
