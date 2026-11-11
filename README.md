@@ -1,4 +1,4 @@
-# Python_practice_excerises_mini_project
+# Python_Practice_Excerises_Mini_Project
 This repository contains my Python programming practice exercises as I develop and strengthen my programming skills.
 I am learning Python from the fundamentals through practical coding examples and exercises.
 
